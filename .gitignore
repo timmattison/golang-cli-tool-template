@@ -19,3 +19,7 @@
 
 # Go workspace file
 go.work
+.idea
+golang-cli-tool-template
+golang-cli-tool-template-linux*
+golang-cli-tool-template.exe
